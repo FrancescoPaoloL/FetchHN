@@ -1,0 +1,29 @@
+keywords:
+  - math
+  - python
+  - c#
+  - programming
+  - kubernetes
+  - docker
+  - cloud computing
+  - artificial intelligence
+  - machine learning
+  - data science
+  - deep learning
+  - neural networks
+  #...
+
+settings:
+  max_stories_to_check: 100
+  concurrent_connections: 50
+  save_results: true
+  results_file: hn_search_results.json
+output:
+  show_title: true
+  show_url: true
+  show_score: true
+  show_author: true
+  show_date: true
+  show_comments_count: true
+  show_text_snippet: true
+  snippet_length: 150
