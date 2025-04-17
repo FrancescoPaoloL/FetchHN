@@ -25,6 +25,11 @@ https://hacker-news.firebaseio.com/v0/item/9224.json
         "url": "http://www.getdropbox.com/u/2/screencast.html"
     }
 
+This the output:
+
+![image_alt](https://github.com/FrancescoPaoloL/FetchHN/blob/main/output.jpg?raw=true)
+
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
