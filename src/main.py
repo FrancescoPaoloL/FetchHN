@@ -6,7 +6,11 @@ from utils.saver import save_results_to_file
 from display.output import display_stories
 
 async def main():
-    config_file = "config/config.yaml"
+    import os
+
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    config_file = os.path.join(BASE_DIR, 'config', 'config.yaml')
+
     config = load_config(config_file)
 
     # Extract settings from config
