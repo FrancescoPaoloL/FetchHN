@@ -1,4 +1,4 @@
-# FetchHN
+# Fetch Hacker News tool
 This project is a simple script that automatically searches for relevant articles on Hacker News based on a list of keywords.
 
 Why I done that? I used to check Hacker News almost every day. Then I discovered the Hacker News API, which allows us to fetch the latest news programmatically. So I thought: why not automate my search using keywords?
